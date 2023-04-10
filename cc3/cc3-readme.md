@@ -25,7 +25,7 @@ Therefore, the time complexity of binary search is O(log n). This makes binary s
 ## Solution
 
 
-	1.	Input: [7, 8, 9, 10], target=9          Expected Output: 2
+	1.	Input: [7, 8, 9, 10], target=22         Expected Output: -1
     2.	Input: [5, 6, 7, 8], target=6           Expected Output: 1
     3.	Input: [1, 2, 3, 4], target=4           Expected Output: 3
     4.	Input: [22, 24, 26, 28], target=22      Expected Output: 0
