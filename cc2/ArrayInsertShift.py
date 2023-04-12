@@ -11,7 +11,8 @@ def newArr(arr, val):
     for i in range(n-1, mid, -1):
         arr[i] = arr[i-1]
 
-    # insert the new value into the midpoint )
+    # insert the new value into the ( midpoint )
     arr[mid] = val
 
     return arr
+#jkjjgh
