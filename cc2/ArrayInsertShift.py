@@ -15,4 +15,4 @@ def newArr(arr, val):
     arr[mid] = val
 
     return arr
-#jkj
+#jkjjgh
