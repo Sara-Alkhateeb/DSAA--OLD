@@ -28,5 +28,5 @@ Array-insert-shift is an array of integers and an integer value to be inserted i
 	Input:[22, 24, 26, 28,30],32,
     Expected Output:[22, 24, 26,32,28,30]
     
-	Input: [""] , 1 , Expected Output: [1] [""]
+	Input: [""] , 1 , Expected Output: [1] 
 
