@@ -3,8 +3,8 @@
 `Binary search` is a search algorithm that works efficiently on sorted arrays. It repeatedly divides the search interval in half until the target element is found or determined to be not present. It has a time complexity of O(log n) where n is the size of the array.
 
 ## Whiteboard Process
-![cc](./p1.png)
-![cc](./p2.png)
+![cc](./whiteborad.png)
+
 
 ## Approach & Efficiency
 ### Big O : The time complexity of the binary search algorithm is O(log n), where n is the size of the array.
@@ -25,7 +25,7 @@ Therefore, the time complexity of binary search is O(log n). This makes binary s
 ## Solution
 
 
-	1.	Input: [7, 8, 9, 10], target=22         Expected Output: -1
-    2.	Input: [5, 6, 7, 8], target=6           Expected Output: 1
-    3.	Input: [1, 2, 3, 4], target=4           Expected Output: 3
-    4.	Input: [22, 24, 26, 28], target=22      Expected Output: 0
+	1.	Input: [7, 8, 9, 10], key value =22       Expected Output: -1
+    2.	Input: [5, 6, 7, 8], key value =6         Expected Output: 1
+    3.	Input: [1, 2, 3, 4], key value =4         Expected Output: 3
+    4.	Input: [22, 24, 26, 28], key value =22    Expected Output: 0
