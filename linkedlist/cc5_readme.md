@@ -41,7 +41,7 @@ A linked list is a linear data structure in which each element, called a node, s
     The space complexity is O(n)
 
 ## Solution
-### [click here to the LinkedList code](./LinkedList.py)
+### [click here to the LinkedList code](./linkedlist.py)
 ### [click here to the Test code](../tests/test_linkedlist.py)
 ### To run the code:
     -on your terminal follow these command:
