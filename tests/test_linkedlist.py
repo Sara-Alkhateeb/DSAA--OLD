@@ -1,5 +1,5 @@
 import pytest
-from LinkedList.LinkedList import *
+from linkedlist.linkedlist import LinkedList 
 
 # Test empty linked list
 def test_empty_ll():
@@ -14,10 +14,16 @@ def test_insert(ll):
     actual = str(ll)
     assert expected == actual
 
-# Test includes 
-def test_includes(ll):
+# Test includes to search about 5
+def test_includes_5(ll):
     expected = "True"
     actual = str(ll.includes(5))
+    assert expected == actual
+
+# Test includes to search about 4
+def test_includes_4(ll):
+    expected = "False"
+    actual = str(ll.includes(4))
     assert expected == actual
 
 @pytest.fixture
