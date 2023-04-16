@@ -5,4 +5,4 @@
 | Array-insert-shift      |  [Readme.md](./cc2-Array-insert-shift/cc2-readme.md) |
 | Array-binary-search     |  [Readme.md](./cc3-Array-binary-search/cc3-readme.md) |
 | Sum-Matrix              |  [Readme.md](./cc4-Sum-Matrix/cc4_readme.md) |
-| linked-list             |  [Readme.md](./LinkedList/cc5_readme.md) |
+| linked-list             |  [Readme.md](./linkedlist/cc5_readme.md) |
