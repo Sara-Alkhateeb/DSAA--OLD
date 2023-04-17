@@ -1,4 +1,4 @@
-# Code Challenge: Class 02
+# Code Challenge: Class-02
 ## Array-insert-shift
 Array-insert-shift is an array of integers and an integer value to be inserted into the middle of the array. Works to shifts all the elements  which is means that the element previously at index i will be moved to index i+1, and so on.
 
