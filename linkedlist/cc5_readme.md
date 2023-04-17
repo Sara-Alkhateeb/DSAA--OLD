@@ -2,7 +2,7 @@
 A linked list is a linear data structure in which each element, called a node, stores a value and a reference to the next node. This Code uses to insert an element into a linked list, create a new node with the value and link it to the previous node's reference. To check if a value is in the linked list, traverse the list by following the node references until find the value or reach the end of the list.
 
 ## Whiteboard Process
-![](../whiteborad-LinkdList.png)
+![](../class05%20whiteborad.png)
 
 
 ## Approach & Efficiency
@@ -37,8 +37,14 @@ A linked list is a linear data structure in which each element, called a node, s
   If the value is not found in the list, return False
 
 ## 2. BigO
-    The time complexity is  O(1) 
-    The space complexity is O(n)
+   
+Insert method:
+Time Complexity: O(1)
+Space Complexity: O(1)
+
+includes method:
+Time Complexity: O(n)
+Space Complexity: O(1)
 
 ## Solution
 ### [click here to the LinkedList code](./linkedlist.py)
